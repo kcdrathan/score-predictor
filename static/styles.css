@@ -81,7 +81,9 @@ h2 {
   font-size: 18px;
   padding: 20px;
   border-radius: 10px;
+  overflow-y: hidden;
 }
+
 #register {
   margin-left: 100px;
 }
